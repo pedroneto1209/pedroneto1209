@@ -26,17 +26,7 @@ It's nice to see you here! I'm a passionate <strong>Firmware Engineer</strong>, 
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/pedroneto1209/]" /></a>
 
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/558296446373"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[https://wa.me/558296446373]"/></a>
 </p>
-
-## Status
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroneto1209&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroneto1209&show_icons=true&theme=dracula&line_height=27" alt="**Pedro Neto** github stats"/>
-</a>
 
 
