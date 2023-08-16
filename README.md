@@ -7,7 +7,7 @@ It's nice to see you here! I'm a passionate <strong>Firmware Engineer</strong>, 
 ## More about me
 
 <p align="left">
-  🦄 Programming languages: C/C++ | Python | Assembly | JavaScript | Ruby On Rails
+  🦄 Programming languages: C/C++ | Python | Assembly | Flutter | JavaScript | Ruby On Rails
 </p>
 
 <p align="left">
@@ -20,14 +20,14 @@ It's nice to see you here! I'm a passionate <strong>Firmware Engineer</strong>, 
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <a href="mailto:pedro.adoneto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[]" height="15" ></a>
+  <a href="mailto:pedro.adoneto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[]" height="30" ></a>
       
   <a href="#" alt="LinkedIn">
-  <a href="https://www.linkedin.com/in/pedroneto1209/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[]" height="15" ></a>
+  <a href="https://www.linkedin.com/in/pedroneto1209/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[]" height="30" ></a>
   
 
   <a href="#" alt="WhatsApp">
-  <a href="https://wa.me/558296446373" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[]" height="15" ></a>
+  <a href="https://wa.me/558296446373" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[]" height="30" ></a>
 </p>
 
 
