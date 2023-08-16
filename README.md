@@ -1,9 +1,10 @@
 <img src="https://www.volansys.com/wp-content/uploads/2022/12/Embedded-Firmware-Development.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Hello, I'm Pedro Neto. It's nice to see you here! I'm a passionate <strong>Firmware Engineer</strong>.<br> 
-  I've always been invested in embedded systems, and I currently have over 5 years of experience in the field, along with a bachelor's degree in Mechatronics Engineering.
-</p>
+# Hello, I'm Pedro Neto.
+
+It's nice to see you here! I'm a passionate <strong>Firmware Engineer</strong>, I've always been invested in embedded systems, and I currently have over 5 years of experience in the field, along with a bachelor's degree in Mechatronics Engineering.
+
+## More about me
 
 <p align="left">
   🦄 Programming languages: C/C++ | Python | Assembly | JavaScript | Ruby On Rails
@@ -16,6 +17,16 @@
 <p align="left">
   💌 Please, reach me out in the following pages! ⤵️
 </p>
+
+## Status
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
 <p align="left">
   <a href="#" alt="Gmail">
