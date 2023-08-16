@@ -20,7 +20,7 @@ It's nice to see you here! I'm a passionate <strong>Firmware Engineer</strong>, 
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[mailto:pedro.adoneto@gmail.com]" /></a>
+    <a href="mailto:pedro.adoneto@gmail.com" target="_blank"><img src=""https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[mailto:pedro.adoneto@gmail.com]" width="150" ></a>
 
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/pedroneto1209/]" /></a>
